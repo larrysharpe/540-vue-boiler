@@ -1,1 +1,1 @@
-# 540-vue-boiler
+# 540 VUEJS Frontend Boilerplate
